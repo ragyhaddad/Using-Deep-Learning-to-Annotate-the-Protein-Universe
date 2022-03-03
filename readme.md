@@ -1,4 +1,4 @@
-## DBTX Pfam ResNet
+## Using Deep Learning to Annotate the Protein Universe
 
 Residual Network for Pfam Protein Sequence Annotation
 
